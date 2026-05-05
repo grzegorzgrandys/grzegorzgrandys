@@ -14,7 +14,7 @@ Nie jestem "zwykłym" programistą. Jestem deweloperem nowej ery, który łączy
 | **Mobile** | React Native, Expo |
 | **Backend & Cloud** | Supabase (PostgreSQL, Auth, Edge Functions), Vercel |
 | **CMS & Web** | WordPress Headless, Advanced Custom Fields (ACF), SEO Optimization |
-| **AI Workflow** | Cursor (Advanced Prompting), Claude 3.5 Sonnet, Vercel v0, Bolt.new |
+| **AI Workflow** | Cursor (Advanced Prompting), Antigravity, Claude Sonet 4.6 & Claude Opus 4.6, Vercel v0, |
 
 ---
 
@@ -29,10 +29,6 @@ Nie jestem "zwykłym" programistą. Jestem deweloperem nowej ery, który łączy
 *   **Technologia:** WordPress (LMS) + Bunny Stream (Video Hosting).
 *   **Opis:** Zaawansowany system kursów online dla maturzystów. Wdrożyłem architekturę lekcji, automatyzację płatności oraz bezpieczny hosting wideo odporny na piractwo. 
 *   **Wynik:** Skuteczne SEO i organiczny wzrost ruchu bez nakładów na reklamy.
-
-#### ⚖️ **BLSK Legal - Nowoczesna Kancelaria**
-*   **Technologia:** Next.js / WordPress Hybrid (ACF).
-*   **Opis:** Projekt "Full Option" dla butikowej kancelarii. Nowoczesny design typu "Quiet Luxury" połączony z błyskawicznym ładowaniem (100/100 w PageSpeed Insights). Pełne wdrożenie wielojęzyczne (PL/ENG).
 
 ---
 
@@ -52,7 +48,6 @@ Wierzę, że w 2026 roku miarą dewelopera nie jest znajomość składni na pami
 
 ### 📫 Kontakt i Współpraca
 - **Strona:** [neopage.pl](https://neopage.pl)
-- **LinkedIn:** [linkedin.com/in/grzegorz-grandys](TU_WRZUĆ_LINK)
-- **Email:** [TWÓJ_MAIL]
+- **Email:** [kontakt@neopage.pl]
 
 "Progres nie jest opcją, jest standardem." 🚀
