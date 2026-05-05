@@ -41,8 +41,8 @@ Wierzę, że w 2026 roku miarą dewelopera nie jest znajomość składni na pami
 ---
 
 ### 📈 Moja aktywność
-![Statystyki Grzegorza](https://github-readme-stats.vercel.app/api?username=xgregorgrand&show_icons=true&theme=tokyonight&count_private=true)
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=xgregorgrand&layout=compact&theme=tokyonight)
+![Statystyki Grzegorza](https://github-readme-stats.vercel.app/api?username=grzegorzgrandys&show_icons=true&theme=tokyonight&count_private=true)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=grzegorzgrandys&layout=compact&theme=tokyonight)
 
 ---
 
