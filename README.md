@@ -17,6 +17,11 @@ Nie jestem "zwykłym" programistą. Jestem deweloperem nowej ery, który łączy
 | **AI Workflow** | Cursor (Advanced Prompting), Antigravity, Claude Sonet 4.6 & Claude Opus 4.6, Vercel v0, |
 
 ---
+### 🧰 Mój Stack Technologiczny
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,supabase,vercel,tailwind,wordpress,postman,git,reactnative" />
+</p>
 
 ### 💼 Kluczowe Projekty i Realizacje
 
@@ -40,12 +45,6 @@ Wierzę, że w 2026 roku miarą dewelopera nie jest znajomość składni na pami
 
 ---
 
-### 🧰 Mój Stack Technologiczny
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,supabase,vercel,tailwind,wordpress,postman,git,reactnative" />
-</p>
----
 
 ### 📫 Kontakt i Współpraca
 - **Strona:** [neopage.pl](https://neopage.pl)
