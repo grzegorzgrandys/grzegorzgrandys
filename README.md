@@ -40,10 +40,11 @@ Wierzę, że w 2026 roku miarą dewelopera nie jest znajomość składni na pami
 
 ---
 
-### 📈 Moja aktywność
-![Statystyki Grzegorza](https://github-readme-stats.vercel.app/api?username=grzegorzgrandys&show_icons=true&theme=tokyonight&count_private=true)
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=grzegorzgrandys&layout=compact&theme=tokyonight)
+### 🧰 Mój Stack Technologiczny
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,supabase,vercel,tailwind,wordpress,postman,git,reactnative" />
+</p>
 ---
 
 ### 📫 Kontakt i Współpraca
